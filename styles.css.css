@@ -1,0 +1,20 @@
+iframe
+{
+    width:  1500px;
+    right:  1500px;
+    height: 1000px;
+    border: solid 1px red;
+}
+nav
+{
+    background-color: yellow;
+}
+nav:hover
+{
+    background-color: red;
+}
+.parent
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
